@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Museu de Arte de São Paulo (MASP)",
+    "latitude": -23.561414,
+    "longitude": -46.655881,
+    "description": "Museu de Arte de São Paulo Assis Chateaubriand, um dos museus mais importantes do Brasil."
+  },
+  {
+    "name": "Parque Ibirapuera",
+    "latitude": -23.587416,
+    "longitude": -46.657634,
+    "description": "Um dos principais parques urbanos de São Paulo, famoso por sua área verde, museus e eventos culturais."
+  },
+  {
+    "name": "Catedral da Sé",
+    "latitude": -23.550305,
+    "longitude": -46.633942,
+    "description": "Catedral Metropolitana de São Paulo, um dos maiores templos neogóticos do mundo."
+  }
+]
